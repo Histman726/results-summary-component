@@ -108,9 +108,14 @@ h3{
   background-color: hsla(0, 100%, 67%, 0.05);
 }
 
-.category{
+.red .category, .yellow .category{
   font-weight: 700;
   margin-right: 85px;
+}
+
+.morado .category, .aqua .category{
+  font-weight: 700;
+  margin-right: 98px;
 }
 
 .red .category{
