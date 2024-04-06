@@ -70,7 +70,7 @@ h1{
 }
 
 .percent h2{
-  font-size: 53px;
+  font-size: 65px;
   font-weight: 800;
   color: white;
 }
@@ -84,6 +84,7 @@ h3{
   color: white;
   margin-bottom: 20px;
   font-weight: 700;
+  font-size: 50px;
 }
 
 .result p{
